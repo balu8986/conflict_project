@@ -4,4 +4,7 @@ main
 	{ 
 		//Intial code
 	}
+	{
+		This is feature2
+	}
 }
