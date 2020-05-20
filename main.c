@@ -1,10 +1,12 @@
 main
 {
 	function()
-	{ 
-		//Intial code
+	{		//Intial code
+
+
+feature2()
+{//intial feature2 code
+}
 	}
-	{
-		This is feature2
-	}
+
 }
