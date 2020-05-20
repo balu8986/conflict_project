@@ -8,4 +8,7 @@ main
 		//feature1code
 	}
 	}
+	{
+		This is feature2
+	}
 }
